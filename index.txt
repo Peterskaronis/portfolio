@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Peter Skaronis
+Peter Skaronis
+Cybersecurity Consultant
 
 Show Contacts
 
 Email
-richard@example.com
+pskaronis@hey.com
 
 Phone
-+1 (213) 352-2795
++1 (604) 328-2698
 
 Birthday
-June 23, 1982
+January 1, 1982
 
 Location
-Sacramento, California, USA
+Vancouver, British Columbia, Canada
 
 # navbar
 
